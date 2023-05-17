@@ -31,7 +31,9 @@ Course Instructor: Prof. Mauro Maggioni
 
 [1] Mikhail Belkin and Partha Niyogi. Using manifold stucture for partially labeled classification. Advances in neural
 information processing systems, 15, 2002.
+
 [2] Arthur D Szlam, Mauro Maggioni, and Ronald R Coifman. Regularization on graphs with function-adapted diffusion
 processes. Journal of Machine Learning Research, 9(8), 2008.
+
 [3] Jeff Calder, Brendan Cook, Matthew Thorpe, and Dejan Slepcev. Poisson learning: Graph based semi-supervised
 learning at very low label rates, 2020.
