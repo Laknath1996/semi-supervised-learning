@@ -1,6 +1,6 @@
-# Graph-based Semi-Supervised Learning (EN.553.738 Course Project)
+# Graph-based Semi-Supervised Learning 
 
-In this work, we study graph-based methods for semi-supervised learning (SSL), presenting the theoretical motivations of these methods, and experimental results on benchmark datasets.
+In this EN.553.738 Course Project, we study graph-based methods for semi-supervised learning (SSL), presenting the theoretical motivations of these methods, and experimental results on benchmark datasets.
 
 ### Semi-supervised Learning
 
