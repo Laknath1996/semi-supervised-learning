@@ -25,7 +25,7 @@ Group Members: Ashwin De Silva, Jeremy Welland, Sai Koukuntla, Zhenghan Fang
 
 Course Instructor: Prof. Mauro Maggioni
 
-[[project report](https://github.com/Laknath1996/neurogenesis/blob/main/CMM_Project_Report_Group3.pdf)]
+[[project report](https://github.com/Laknath1996/semi-supervised-learning/blob/master/work/report.pdf)] [[slides](https://github.com/Laknath1996/semi-supervised-learning/blob/master/work/slides.pdf)]
 
 ### References
 
